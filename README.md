@@ -1,2 +1,4 @@
 # INFO833-DHT
-Concevoir et implémenter une DHT en dessus de PeerSim
+
+The goal of the project :
+Design and implement a DHT on top of PeerSim.
